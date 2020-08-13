@@ -1,4 +1,6 @@
 body {
+    background-color: #303030;
+    color: white;
     font-family: monospace;
     text-align: center;
 }
@@ -21,8 +23,12 @@ nav ul li {
 }
 
 nav ul li a {
-    color: black;
+    color: white;
     text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #E1005C;
 }
 
 footer {
