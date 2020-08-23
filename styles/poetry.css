@@ -1,0 +1,8 @@
+p a {
+    color: white;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: #E1005C;
+}
